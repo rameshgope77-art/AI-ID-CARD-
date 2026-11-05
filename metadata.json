@@ -1,0 +1,6 @@
+{
+  "name": "AI Document Crop & Print Studio",
+  "description": "Professional ID card and document crop, auto edge detection, A4 print layout, and high-precision PDF generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
